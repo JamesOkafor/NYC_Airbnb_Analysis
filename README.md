@@ -57,7 +57,7 @@ The analysis aimed to:
 ![Price Heatmap](https://github.com/JamesOkafor/NYC_Airbnb_Analysis/blob/main/python_airbnb_project3.JPG?raw=true)
 
 ### Availability by Room Type
-![Availability by Room Type](NYC_Airbnb_Analysis/blob/main/python_airbnb_project4.JPG?raw=true)
+![Availability by Room Type](https://github.com/JamesOkafor/NYC_Airbnb_Analysis/blob/main/python_airbnb_project4.JPG?raw=true)
 
 
 ##  Final Observations
