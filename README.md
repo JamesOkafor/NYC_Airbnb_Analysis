@@ -45,11 +45,19 @@ The analysis aimed to:
 
 ##  Sample Visualizations
 
-> Include screenshots of:
-- Neighborhood vs Price
-- Room Type Distribution
-- Price Heatmap (Latitude/Longitude)
-- Availability by Room Type
+## Sample Visualizations
+
+### Neighbourhood vs Price
+![Neighbourhood vs Price](https://github.com/JamesOkafor/NYC_Airbnb_Analysis/blob/main/python_airbnb_project1.JPG?raw=true)
+
+### Room Type Distribution
+![Room Type Distribution](https://github.com/JamesOkafor/NYC_Airbnb_Analysis/blob/main/python_airbnb_project2.JPG?raw=true)
+
+### Price Heatmap
+![Price Heatmap](https://github.com/JamesOkafor/NYC_Airbnb_Analysis/blob/main/python_airbnb_project3.JPG?raw=true)
+
+### Availability by Room Type
+![Availability by Room Type](NYC_Airbnb_Analysis/blob/main/python_airbnb_project4.JPG?raw=true)
 
 
 ##  Final Observations
@@ -69,3 +77,5 @@ This analysis provides valuable insights into Airbnb’s NYC market. These insig
 **Okafor Izuchukwu James**  
 📧 luffwafer@gmail.com  
 🌍 [LinkedIn](https://www.linkedin.com/in/james-okafor-229b64266) | [GitHub](https://github.com/JamesOkafor)
+
+Added screenshot imageds to README
