@@ -74,7 +74,8 @@ This analysis provides valuable insights into Airbnb’s NYC market. These insig
 
 ## Author
 
-**Okafor Izuchukwu James**  
+**Okafor Izuchukwu James** 
+Data Analyst
 📧 luffwafer@gmail.com  
 🌍 [LinkedIn](https://www.linkedin.com/in/james-okafor-229b64266) | [GitHub](https://github.com/JamesOkafor)
 
